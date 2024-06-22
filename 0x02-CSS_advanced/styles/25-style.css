@@ -515,10 +515,6 @@ ul.row{
   color: var(--text-color);
 }
 
-.footer ul {
-  text-align: right;
-}
-
 .footer-address {
   color: var(--text-color);
 }
@@ -560,6 +556,10 @@ ul.row{
   color: var(--button-hover-color);
   text-decoration: var(--button-hover-text-decoration);
   background: var(--button-hover-background);
+}
+
+.footer ul {
+  text-align: right;
 }
 
 :root {
